@@ -64,5 +64,125 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-augur-trade-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://augur-trade.com/
+A.U.G.U.R is an autonomous trading agent platform for Solana and 13 EVM chains, offering AI‑driven token analysis, automated trade execution, copy‑trading, and risk management via a web app, Telegram integration, and Android app. Users can run tools via MCP or HTTP, pay per call in USDC or SOL, and access a live demo without sign‑up. The service provides a marketplace of tools for on‑chain data, price alerts, and AI insights, with a transparent fee structure (2% on buys, free sells) and holder revenue sharing.
+
+**Areas:** Company · Finance · Crypto · Trading · Automation · Solana · DeFi
+
+## augur-trade-com on APIs.io
+
+Everything profiled for augur-trade-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/augur-trade-com/](https://apis.io/providers/augur-trade-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (11)
+
+- [augur-trade-com Chain Cortex API](https://apis.io/apis/augur-trade-com/augur-trade-com-chain-cortex-api/) — The Chain Cortex API from augur-trade-com — 17 operation(s) for chain cortex.
+- [augur-trade-com Forensics Lobe API](https://apis.io/apis/augur-trade-com/augur-trade-com-forensics-lobe-api/) — The Forensics Lobe API from augur-trade-com — 4 operation(s) for forensics lobe.
+- [augur-trade-com Hub API](https://apis.io/apis/augur-trade-com/augur-trade-com-hub-api/) — The Hub API from augur-trade-com — 6 operation(s) for hub.
+- [augur-trade-com Knowledge Cortex API](https://apis.io/apis/augur-trade-com/augur-trade-com-knowledge-cortex-api/) — The Knowledge Cortex API from augur-trade-com — 7 operation(s) for knowledge cortex.
+- [augur-trade-com Liquidity Lobe API](https://apis.io/apis/augur-trade-com/augur-trade-com-liquidity-lobe-api/) — The Liquidity Lobe API from augur-trade-com — 3 operation(s) for liquidity lobe.
+- [augur-trade-com Market Stem API](https://apis.io/apis/augur-trade-com/augur-trade-com-market-stem-api/) — The Market Stem API from augur-trade-com — 7 operation(s) for market stem.
+- [augur-trade-com Pump Cortex API](https://apis.io/apis/augur-trade-com/augur-trade-com-pump-cortex-api/) — The Pump Cortex API from augur-trade-com — 9 operation(s) for pump cortex.
+- [augur-trade-com Risk Amygdala API](https://apis.io/apis/augur-trade-com/augur-trade-com-risk-amygdala-api/) — The Risk Amygdala API from augur-trade-com — 6 operation(s) for risk amygdala.
+- [augur-trade-com Utility Cerebellum API](https://apis.io/apis/augur-trade-com/augur-trade-com-utility-cerebellum-api/) — The Utility Cerebellum API from augur-trade-com — 10 operation(s) for utility cerebellum.
+- [augur-trade-com Web Senses API](https://apis.io/apis/augur-trade-com/augur-trade-com-web-senses-api/) — The Web Senses API from augur-trade-com — 8 operation(s) for web senses.
+- [augur-trade-com World Map API](https://apis.io/apis/augur-trade-com/augur-trade-com-world-map-api/) — The World Map API from augur-trade-com — 8 operation(s) for world map.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Augur Trade Com Agentic Access](https://apis.io/agentic-access/augur-trade-com/augur-trade-com-agentic-access/)
+
+#### Overlays (2)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Augur Trade Com Auspice Openapi Overlay](https://apis.io/overlays/augur-trade-com/augur-trade-com-auspice-openapi-overlay/)
+- [Augur Trade Com Foresight Openapi Overlay](https://apis.io/overlays/augur-trade-com/augur-trade-com-foresight-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [augur-trade-com API Rules](https://apis.io/rules/augur-trade-com/augur-trade-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Augur Trade Com Authentication](https://apis.io/security/augur-trade-com/augur-trade-com-authentication/)
+- [Augur Trade Com Domain Security](https://apis.io/security/augur-trade-com/augur-trade-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Augur Trade Com Scopes](https://apis.io/scopes/augur-trade-com/augur-trade-com-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://augur-trade.com/)
+- [Documentation](https://augur-trade.com/hub/docs.html)
+- [API reference](https://augur-trade.com/hub/docs.html)
+- [Terms of service](https://augur-trade.com/agent/terms/)
+- [Privacy policy](https://augur-trade.com/agent/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 43.0** — developing · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 48.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 44.5 |
+| Access clarity | 21.1 |
+
+**Agent readiness 41.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 32.4** — Securities & Market Data
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/augur-trade-com/](https://apis.io/providers/augur-trade-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for augur-trade-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/augur-trade-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
